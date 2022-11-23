@@ -2,8 +2,8 @@
 ##This is the script of automation you can edit it with your tools 
 
 Requirements: 
-[Subfinder](https://github.com/projectdiscovery/subfinder)
-[Assetfinder](https://github.com/tomnomnom/assetfinder)
+[Subfinder](https://github.com/projectdiscovery/subfinder)/n
+[Assetfinder](https://github.com/tomnomnom/assetfinder)/n
 [Amass](https://github.com/OWASP/Amass)
 [anew](https://github.com/tomnomnom/anew)
 [httpx](https://github.com/projectdiscovery/httpx)
