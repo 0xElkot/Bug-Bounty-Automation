@@ -9,6 +9,6 @@ Requirements:
 [httpx](https://github.com/projectdiscovery/httpx)\
 [nuclei](https://github.com/projectdiscovery/nuclei)\
 [cent](https://github.com/xm1k3/cent)\
-[xray](https://github.com/chaitin/xray)\
+[xray](https://github.com/chaitin/xray)
 
 ## Install these tools and edit paths with your hunting folder 
