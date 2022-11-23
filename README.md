@@ -3,7 +3,7 @@
 
 Requirements: 
 [Subfinder](https://github.com/projectdiscovery/subfinder)/n
-[Assetfinder](https://github.com/tomnomnom/assetfinder)/n
+[Assetfinder](https://github.com/tomnomnom/assetfinder)%n
 [Amass](https://github.com/OWASP/Amass)
 [anew](https://github.com/tomnomnom/anew)
 [httpx](https://github.com/projectdiscovery/httpx)
