@@ -1,7 +1,7 @@
 # Bug-Bounty-Automation
 ##This is the script of automation you can edit it with your tools 
 
-Requirements: 
+Requirements: \
 [Subfinder](https://github.com/projectdiscovery/subfinder)\
 [Assetfinder](https://github.com/tomnomnom/assetfinder)\
 [Amass](https://github.com/OWASP/Amass)\
